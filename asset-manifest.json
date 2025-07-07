@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mind-todo/static/css/main.0680cddd.css",
+    "main.js": "/mind-todo/static/js/main.89ff10f3.js",
+    "static/js/453.25632c0a.chunk.js": "/mind-todo/static/js/453.25632c0a.chunk.js",
+    "index.html": "/mind-todo/index.html",
+    "main.0680cddd.css.map": "/mind-todo/static/css/main.0680cddd.css.map",
+    "main.89ff10f3.js.map": "/mind-todo/static/js/main.89ff10f3.js.map",
+    "453.25632c0a.chunk.js.map": "/mind-todo/static/js/453.25632c0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0680cddd.css",
+    "static/js/main.89ff10f3.js"
+  ]
+}
